@@ -3,7 +3,9 @@ require "react/redux/rails/version"
 module React
   module Redux
     module Rails
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
+
     end
   end
 end
