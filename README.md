@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Once the gem is installed, include it in your sprockets file:
+
+```javascript
+//= require react-redux-rails
+```
+
 
 ## Development
 
